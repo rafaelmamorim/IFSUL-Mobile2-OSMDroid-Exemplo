@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Exemplo de uso do AsyncTask
+# Exemplo de uso do osmdroid
 
 Repositório criado para mostrar uma aplicação simples usando o [osmdroid](https://github.com/osmdroid/osmdroid) 
 na disciplina de Desenvolvimento Mobile II, do curso de Tecnólogo em Analise e Desenvolvimento de Sistemas do
